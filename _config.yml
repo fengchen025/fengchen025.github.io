@@ -10,7 +10,7 @@
 locale                   : "en-UK"
 title                    : "Dr. Feng Chen"
 title_separator          : "-"
-name                     : &name "Feng"
+name                     : &name "Dr. Feng Chen"
 description              : &description "PostDoc in Computer Vision and Machine Learning"
 url                      : https://fengchen025.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "fengchen025/fengchen025.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Dr. Feng Chen"
+  pronouns         : "he/his" # example: "she/her"  
+  bio              : "PostDoc in Computer Vision and Machine Learning"
+  location         : "UK"
+  employer         : "The University of Edinburgh"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "feng.chen@ed.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
