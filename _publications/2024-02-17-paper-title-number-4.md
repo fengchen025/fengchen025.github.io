@@ -1,11 +1,7 @@
 ---
 title: "GMT: Guided Mask Transformer for Leaf Instance Segmentation"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+venue: 'Winter Conference on Applications of Computer Vision (WACV) 2025 (Oral Presentation)'
 paperurl: 'https://arxiv.org/abs/2406.17109'
 citation: 'Feng Chen, Sotirios A. Tsaftaris, Mario Valerio Giuffrida. (2025). &quot;GMT: Guided Mask Transformer for Leaf Instance Segmentation.&quot; <i>Winter Conference on Applications of Computer Vision (WACV) 2025 (Oral Presentation)</i>.'
 ---
