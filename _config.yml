@@ -21,7 +21,7 @@ repository               : "fengchen025/fengchen025.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Dr. Feng Chen"
   pronouns         : "he/his" # example: "she/her"  
   bio              : "PostDoc in Computer Vision and Machine Learning"
