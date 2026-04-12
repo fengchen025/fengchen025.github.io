@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Feng Chen (陈丰)**, and I am currently a PostDoc in Machine Learning associated with [VIOS Collab](https://vios.science/) at the **University of Edinburgh**. I work closely with [Prof Sotirios A. Tsaftaris](https://vios.science/) and [Dr. M. Valerio Giuffrida](https://www.valeriogiuffrida.academy/wp/). 
+My name is **Feng Chen (陈丰)**, and I am currently a PostDoc in Machine Learning associated with [VIOS Collab](https://vios.science/) at the **University of Edinburgh**. I work closely with [Prof Sotirios A. Tsaftaris](https://vios.science/) and [Dr Mario Valerio Giuffrida](https://www.valeriogiuffrida.academy/wp/). 
 
 My research focuses on **Artificial Intelligence (AI) and its cross disciplinary applications**:
 - Large language model (LLM) agents
