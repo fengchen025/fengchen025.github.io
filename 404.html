@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Feng Chen</title>
+<link rel="canonical" href="https://fengchen.me/">
+<script>
+  // Old page → matching section on the new one-page site
+  var p = location.pathname.toLowerCase(), target = '';
+  if (p.indexOf('/publication') === 0) target = '#research';
+  else if (p.indexOf('/talk') === 0) target = '#talks';
+  else if (p.indexOf('/teaching') === 0) target = '#teaching';
+  location.replace('https://fengchen.me/' + target);
+</script>
+<meta http-equiv="refresh" content="0; url=https://fengchen.me/">
+</head>
+<body>
+<p>My website has moved to <a href="https://fengchen.me/">fengchen.me</a>.</p>
+</body>
+</html>
